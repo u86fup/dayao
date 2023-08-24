@@ -25,7 +25,7 @@ a {
   border-radius: 4px;
 }
 .navbar-collapse {
-  border-color: #fff;
+  border-color: #fff !important;
 }
 
 .banner {
