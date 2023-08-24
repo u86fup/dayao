@@ -25,9 +25,8 @@ a {
   border-radius: 4px;
 }
 
-.navbar-default {
-  background-color: #f8f8f8;
-  border-color: #f8f8f8;
+.navbar-collapse {
+  border-color: #fff;
 }
 
 .banner {
